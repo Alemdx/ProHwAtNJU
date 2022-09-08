@@ -1,0 +1,8 @@
+﻿  ConsoleApplication8.cpp
+C:\Users\12451\source\repos\基于c++的KNN算法实现\ConsoleApplication8.cpp(17,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Data_set.cpp
+  error_ana.cpp
+  input.cpp
+  KNN.cpp
+  正在生成代码...
+  ConsoleApplication8.vcxproj -> C:\Users\12451\source\repos\基于c++的KNN算法实现\Debug\ConsoleApplication8.exe
